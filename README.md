@@ -1,5 +1,5 @@
 # CPUGA
 
-The code is coming soon!
+Instructions are coming soon!
 
 Contact: shichao.pei@kaust.edu.sa
